@@ -26,7 +26,8 @@ Before we begin coding, let's complete the initial setup for this lesson:
   * Clone the forked repository to your local machine.
 * Open and Run File
   * Open the project in VSCode.
-  * Run npm install to install all necessary dependencies.
+  * Run `pipenv install` to install all necessary dependencies.
+  * Run `pipenv shell` to enter the virtual environment.
 
 ### Task 1: Define the Problem
 
